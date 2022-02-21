@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+#buttonDiv{
+  background-color: rgb(40, 15, 131);
+  color:rgb(252, 205, 244);
+
+  width: 400px;
+}
